@@ -2,6 +2,15 @@
 
 Welcome to the **Awesome Aussie Techies Tax Guide**! This open-source guide is designed to help software engineers working with a Tax File Number (TFN) or Australian Business Number (ABN) navigate the Australian tax landscape, maximize tax savings, and implement effective financial strategies for a better and sustainable tomorrow.
 
+## Principles
+
+1. **Community-Driven**: Created by IT professionals for IT professionals, ensuring relevance and practicality.
+2. **Open Source**: Freely available for everyone to use, contribute to, and improve.
+3. **Non-Commercial**: No ads, no marketing, just valuable information.
+4. **Comprehensive**: Covers a wide range of topics from tax basics to advanced financial strategies.
+5. **Up-to-Date**: Regularly updated to reflect the latest tax laws and financial practices.
+6. **Supportive**: Aims to build a community where members can share knowledge and support each other.
+
 ## By the People, For the People 👥
 
 Crafted with the principle of "by the people" and "for the people," this guide ensures that it addresses the real needs and concerns of Australian IT professionals.
@@ -140,6 +149,16 @@ If you find this guide valuable, please consider supporting us:
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Updates 📅
+
+We strive to keep this guide up-to-date with the latest tax laws and financial practices. However, always use your own wisdom when it comes to determining if any information is outdated.
+
+### Recent Updates
+
+- **July 2024**: Introduced and added the initial foundation of the tax guide.
+
+We are always looking for contributors to help keep this guide comprehensive and current. Your contributions are welcome and appreciated!
 
 ## 🤝 Contributing
 
