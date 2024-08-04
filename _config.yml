@@ -1,3 +1,26 @@
 remote_theme: pages-themes/midnight@v0.2.0
+title: "Awesome Aussie Techies Tax Guide"
+repository: yourusername/awesome-aussie-techies-tax-guide
+url: "https://yourusername.github.io/awesome-aussie-techies-tax-guide"
+description: "An open-source guide to help Australian IT professionals navigate taxes, maximize savings, and manage finances effectively."
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-seo-tag
+- jekyll-sitemap
+header:
+  logo: /assets/images/logo.png
+navigation:
+  - name: "Home"
+    link: "/"
+  - name: "Table of Contents"
+    link: "/#table-of-contents"
+  - name: "Contribute"
+    link: "/docs/contributing.md"
+footer:
+  content: "Crafted with ❤️ by the Aussie Tech Community. By the people, for the people."
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CONTRIBUTING.md
