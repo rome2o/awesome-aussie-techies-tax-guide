@@ -1,6 +1,6 @@
 remote_theme: pages-themes/midnight@v0.2.0
 title: "Awesome Aussie Techies Tax Guide"
-repository: yourusername/awesome-aussie-techies-tax-guide
+repository: rome2o/awesome-aussie-techies-tax-guide
 # url: "https://yourusername.github.io/awesome-aussie-techies-tax-guide"
 description: "An open-source guide to help Australian IT professionals navigate taxes, maximize savings, and manage finances effectively."
 plugins:
@@ -21,6 +21,5 @@ footer:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - README.md
   - LICENSE
-  - CONTRIBUTING.md
+  - contributing.md
