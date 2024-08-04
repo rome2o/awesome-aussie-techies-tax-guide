@@ -76,7 +76,7 @@ Access the guide directly [here](https://github.com/rome2o/awesome-australian-te
 
 - **Read the Documentation**: Use the table of contents to navigate through the sections.
 - **Examples and Case Studies**: Explore the [examples](examples) directory for practical case studies and tax-saving strategies.
-- **Contribute**: Have suggestions or improvements? Check our [contributing guidelines](CONTRIBUTING.md) to get started.
+- **Contribute**: Have suggestions or improvements? Check our [contributing guidelines](docs/contributing.md) to get started.
 
 ## 🔑 Key Topics
 
@@ -160,7 +160,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🤝 Contributing
 
-We welcome contributions! Please read our [CONTRIBUTING](CONTRIBUTING.md) guidelines before submitting a pull request.
+We welcome contributions! Please read our [CONTRIBUTING](docs/contributing.md) guidelines before submitting a pull request.
 
 ## 🌐 Connect with Us
 
