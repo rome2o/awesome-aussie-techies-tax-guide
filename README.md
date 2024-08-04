@@ -112,23 +112,6 @@ Stay compliant with tax laws and maintain proper records to avoid penalties. [Re
 
 Access a curated list of resources, including ATO guidelines, financial tools, and more. [Read more](docs/resources-and-tools.md).
 
-## 💎 Premium Content
-
-For more in-depth strategies and personalized advice, consider subscribing to our [Premium Content](https://www.patreon.com/yourprofile) section. Subscribers get access to:
-
-- Exclusive guides and templates
-- Monthly webinars with tax professionals
-- Personalized Q&A sessions
-
-[Subscribe Now](https://www.patreon.com/yourprofile)
-
-## 👨‍💼 Consulting Services
-
-Need personalized financial advice? Our team offers consulting services tailored to software engineers:
-
-- [Book a Consultation](https://www.yourconsultingservice.com)
-- [Upcoming Webinars](https://www.yourconsultingservice.com/webinars)
-
 ## 🌟 Join the AwesomeAussieTechies Community on Reddit
 
 Are you an Australian IT professional looking for a supportive community? Join us on Reddit to connect with fellow techies, share insights, and get the advice you need to succeed. Here’s why you should join:
