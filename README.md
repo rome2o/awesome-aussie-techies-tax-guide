@@ -79,7 +79,14 @@ This guide is free and independent — we're not selling or marketing anything. 
 
 ## 🚀 Getting Started
 
-Access the guide directly [here](https://github.com/rome2o/awesome-australian-techies-tax-guide). This guide is structured to provide comprehensive, easy-to-follow information on various tax and financial topics relevant to software engineers in Australia.
+This guide is designed to help Australian IT professionals navigate the tax landscape and maximize their financial strategies. Here’s how to get started:
+
+1. **Explore the Guide**: Use the [Table of Contents](#table-of-contents) to navigate through the various sections of the guide.
+2. **Read the Basics**: Start with the [Tax Basics](docs/index.md) section to build a strong foundation.
+3. **Join the Community**: Connect with fellow IT pros on our subreddit [r/AwesomeAussieTechies](https://www.reddit.com/r/AwesomeAussieTechies) for support and discussion.
+4. **Contribute**: Have suggestions or improvements? Check our [Contributing Guidelines](docs/contributing.md) to get started.
+
+Let’s make tax time a breeze together!
 
 ## 💡 How to Use This Guide
 
