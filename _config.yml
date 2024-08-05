@@ -2,6 +2,7 @@ remote_theme: pages-themes/midnight@v0.2.0
 title: "Awesome Aussie Techies Tax Guide"
 repository: rome2o/awesome-aussie-techies-tax-guide
 # url: "https://yourusername.github.io/awesome-aussie-techies-tax-guide"
+github: [metadata]
 description: "An open-source guide to help Australian IT professionals navigate taxes, maximize savings, and manage finances effectively."
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
