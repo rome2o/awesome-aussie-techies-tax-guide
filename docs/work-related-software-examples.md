@@ -77,6 +77,7 @@ As an IT professional, there are various software tools and homelab setups you m
 - **Xero**: Cloud-based accounting software platform for small and medium-sized businesses.
 - **MYOB**: Australian multinational corporation that provides tax, accounting, and other business services software.
 - **Expensify**: Software and mobile app that helps individuals and businesses manage expenses.
+- **[ReceiptClaimer](https://receiptclaimer.com.au)**: AI-powered tax deduction tracking and audit reconciliation platform for Australian landlords and sole traders. Ideal for tracking rental property expenses and work-related deductions with OCR.
 
 ## Homelab Equipment 🏠
 

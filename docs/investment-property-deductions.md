@@ -50,6 +50,7 @@ Investment property deductions allow property investors to reduce their taxable 
 
 - [ATO Rental Properties](https://www.ato.gov.au/General/Property/Residential-rental-properties/)
 - [Depreciation Schedule Providers](https://www.ato.gov.au/General/Depreciation-and-capital-allowances/)
+- **[ReceiptClaimer](https://receiptclaimer.com.au)**: AI-powered tax deduction tracking and audit reconciliation platform for Australian landlords and sole traders. Automate expense tracking with OCR and maximize tax returns.
 
 ## Conclusion
 
