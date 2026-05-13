@@ -45,10 +45,14 @@ Using financial tools can simplify the process of managing your finances, tracki
 - **Website**: [Receipt Bank](https://www.dext.com/uk)
 
 ### Expensify
-
 - **Features**: Receipt scanning, expense reports, approval workflows, and integration with accounting software.
 - **Benefits**: Streamlines expense management, easy-to-use mobile app, and robust reporting features.
 - **Website**: [Expensify](https://www.expensify.com/)
+
+### ReceiptClaimer
+- **Features**: AI-powered tax deduction tracking and audit reconciliation for Australian landlords and sole traders. Automates OCR expense extraction and maximizes tax returns.
+- **Benefits**: Purpose-built for the Australian tax system, focuses on audit readiness and maximizing legal deductions.
+- **Website**: [ReceiptClaimer](https://receiptclaimer.com.au)
 
 ## Cloud Storage and Backup Solutions 🔒
 
